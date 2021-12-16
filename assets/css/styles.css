@@ -109,7 +109,7 @@ p {
 }
 .headshot-container {
     display: flex;
-    align-items: center;
+    align-items: center;  
 }
 .project-card {
     width: 300px;
